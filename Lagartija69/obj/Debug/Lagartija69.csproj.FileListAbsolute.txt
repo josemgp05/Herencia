@@ -1,0 +1,7 @@
+C:\Users\josem\source\repos\Lagartija69\Lagartija69\bin\Debug\Lagartija69.exe.config
+C:\Users\josem\source\repos\Lagartija69\Lagartija69\bin\Debug\Lagartija69.exe
+C:\Users\josem\source\repos\Lagartija69\Lagartija69\bin\Debug\Lagartija69.pdb
+C:\Users\josem\source\repos\Lagartija69\Lagartija69\obj\Debug\Lagartija69.csprojAssemblyReference.cache
+C:\Users\josem\source\repos\Lagartija69\Lagartija69\obj\Debug\Lagartija69.csproj.CoreCompileInputs.cache
+C:\Users\josem\source\repos\Lagartija69\Lagartija69\obj\Debug\Lagartija69.exe
+C:\Users\josem\source\repos\Lagartija69\Lagartija69\obj\Debug\Lagartija69.pdb
